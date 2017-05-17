@@ -1,3 +1,3 @@
 # Air Game
-Sample Game using Blender Game Engine(BGE).
-Scripts in python.
+Sample Games I built during 10th grade, using Blender Game Engine.
+Scripts in python. Poor Graphics :P
