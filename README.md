@@ -1,3 +1,3 @@
-# DevMallu-Iduilder
-Blank repository for the developement of Iduilder app.
-Yup, the name sucks
+# Air Game
+Sample Game using Blender Game Engine(BGE).
+Scripts in python.
